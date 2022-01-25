@@ -21,3 +21,5 @@ Windows: 2360e9187f033b3b48e8a6011fd739e646372398<br>
 <!-- wp:paragraph -->
 <p>The problem with this approach is that it's time consuming to enumerate a large number of files and directories against a target domain and multiple target domains. Directory Spraying allows you to enumerate a larger list of target domains with a smaller list of files and directories.</p>
 <!-- /wp:paragraph -->
+<br>
+Check out my blog post for a full explanation: https://anticrysys.com/directory-spraying-bug-bounties/
